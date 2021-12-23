@@ -2,7 +2,9 @@
 
 I'm a self-tought full stack developer, interested in reading new books, playing chess, writing new codes, dreaming new fintech ideas and creating algorithms for investment but my speciality is back-end developing.
 
-I am a Financial Analyst and Informatics/Computer Science MSc student at Ankara University.
+I'm currenty working in a bank as a financial analyst. But when night comes, I become passionate developer. 
+
+I am also MSc. student at and degree emphasis is in Informatics/Computer Science.
 
 You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge is the best thing for me.
 
