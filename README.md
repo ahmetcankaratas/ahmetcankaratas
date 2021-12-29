@@ -12,7 +12,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 ✨ Programming Languages: Javascript, Python
 
-✨ Front-End Development:React, Javascript, NextJS, HTML, CSS, bootstrap, Material-UI, JQuery
+✨ Front-End Development:React, Angular, Javascript, NextJS, HTML, CSS, bootstrap, Material-UI, JQuery
 
 ✨ Back-End Development: Node.js, Next.js, MongoDB, Express
 
