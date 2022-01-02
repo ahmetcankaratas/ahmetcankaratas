@@ -43,8 +43,8 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 <p align="left" >
 <a href="https://github.com/lingardium">
-  &nbsp;&nbsp;&nbsp;<img height="180em" align:"left"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=lingardium&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;&nbsp;<img height="180em" align:"right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lingardium&layout=compact&langs_count=8&theme=algolia"/>
+  &nbsp;&nbsp;&nbsp;<img height="160em" align:"left"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=lingardium&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;&nbsp;<img height="160em" align:"right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lingardium&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
