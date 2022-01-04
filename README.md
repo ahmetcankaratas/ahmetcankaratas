@@ -2,7 +2,9 @@
 
 I'm a self-tought full stack developer, interested in reading new books, playing chess, writing new codes, dreaming new fintech ideas and creating algorithms for investment but my speciality is back-end developing.
 
-I'm currenty working in a bank as a financial analyst. But when night comes, I become passionate developer. 
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/53529387/148040299-e4723419-907e-4b4e-bdfe-b84afb189e82.gif" align="right" width="300"/>
+
+I'm currenty working in a bank as a financial analyst🌇. But when night comes, I become passionate developer🌃. 
 
 I am also MSc. student at Ankara University and degree emphasis is in Informatics/Computer Science.
 
