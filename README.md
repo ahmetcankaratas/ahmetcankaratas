@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a self-tought full stack developer, interested in reading new books, playing chess, writing new codes, dreaming new fintech ideas and creating algorithms for investment but my speciality is back-end developing.
+I'm a self-tought full stack developer, interested in reading new books, playing chess, writing new codes, dreaming new fintech ideas and creating algorithms for investment.
 
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/53529387/148040299-e4723419-907e-4b4e-bdfe-b84afb189e82.gif" align="right" width="300"/>
 
