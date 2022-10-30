@@ -4,9 +4,7 @@ I'm a self-tought full stack developer, interested in reading new books, playing
 
 <img alt="Night Coding" src="https://user-images.githubusercontent.com/53529387/148040299-e4723419-907e-4b4e-bdfe-b84afb189e82.gif" align="right" width="300"/>
 
-I'm currenty working in a bank as a financial analyst🌇. But when night comes, I become passionate developer🌃. 
-
-I am also MSc. student at Ankara University and degree emphasis is in Informatics/Computer Science.
+I graduated from Ankara University (MSc. Informatics/Computer Science) with GPA 4.0/4.0. I'm currenty working in adesso Turkey as a Frontend Developer.
 
 You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge is the best thing for me.
 
