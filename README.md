@@ -52,9 +52,3 @@ You may find some projects on my repos, feel free to contribute or using them. K
 ## 📫 How to reach me: <br>
 
 <span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/ahmetcankaratas//'>Ahmet Can Karataş</a>
-
-                              Analyst by day, developer by night.
-                                        
-                                        📍 Currently base at: İzmir, Turkey
-
-
