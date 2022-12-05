@@ -33,9 +33,9 @@ You may find some projects on my repos, feel free to contribute or using them. K
 <p align="left" >
 <a href="https://github.com/ahmetcankaratas">
   &nbsp;&nbsp;&nbsp;<img height="160em" align:"left"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmetcankaratas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  &nbsp;&nbsp;&nbsp;<img height="160em" align:"right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ahmetcankaratas&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 
 
 ## 📫 How to reach me: <br>
