@@ -1,12 +1,12 @@
 ### Knock Knock 📺 
 
-In the past, I worked as a financial analyst by day and a software developer by night. But one day, I took the red pill and changed my career to be a full-time software developer.
+In the past, I worked as a financial analyst by day and a software developer by night. But one day, I took the red pill and changed my career.
 
 <img alt="Matrix Pill" src="https://user-images.githubusercontent.com/53529387/209482423-68611331-0257-4279-bcbb-5a94fea6445d.gif" width="400"/>
 
-And now, I'm a self-taught full-stack developer. At the same time I graduated from Ankara University (MSc. Informatics/Computer Science) with GPA 4.0/4.0. 
+And now, I'm a Frontend developer who also have backend development skills. I graduated from Ankara University (MSc. Informatics/Computer Science) with GPA 4.0/4.0. 
 
-I like writing new codes, dreaming of new fintech ideas, and creating algorithms for investment.
+I'm passionate about learning new things, writing new codes, dreaming of new fintech ideas, and creating algorithms for investment.
 
 You may find some projects on my repos, feel free to contribute or use them.
 
