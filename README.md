@@ -1,12 +1,14 @@
-### Hi there 👋
+### Knock Knock 📺 
 
-I'm a self-tought full stack developer, interested in reading new books, playing chess, writing new codes, dreaming new fintech ideas and creating algorithms for investment.
+In the past, I worked as a financial analyst by day and a software developer by night. But one day, I took the red pill and changed my career to be a full-time software developer.
 
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/53529387/148040299-e4723419-907e-4b4e-bdfe-b84afb189e82.gif" align="right" width="300"/>
+<img alt="Matrix Pill" src="https://user-images.githubusercontent.com/53529387/209482423-68611331-0257-4279-bcbb-5a94fea6445d.gif" width="400"/>
 
-I graduated from Ankara University (MSc. Informatics/Computer Science) with GPA 4.0/4.0. I'm currenty working in adesso Turkey as a Frontend Developer.
+And now, I'm a self-taught full-stack developer. At the same time I graduated from Ankara University (MSc. Informatics/Computer Science) with a GPA of 4.0/of 4.0. 
 
-You may find some projects on my repos, feel free to contribute or using them. Knowledge is power and sharing knowledge is the best thing for me.
+I like writing new codes, dreaming of new fintech ideas, and creating algorithms for investment.
+
+You may find some projects on my repos, feel free to contribute or use them.
 
 ### 🛠 &nbsp;Tech Stack
 
