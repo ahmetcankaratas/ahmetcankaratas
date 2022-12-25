@@ -42,4 +42,4 @@ You may find some projects on my repos, feel free to contribute or use them.
 
 ## 📫 How to reach me: <br>
 
-<span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/ahmetcankaratas//'>Ahmet Can Karataş</a>
+<span style="margin-left:50em;" >✨ LinkedIn:</span> <a href='https://www.linkedin.com/in/ahmetcankaratas'>Ahmet Can Karataş</a>
