@@ -22,6 +22,7 @@ You may find some projects on my repos, feel free to contribute or use them.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
   ![NodeJS](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
 
 - 🛢 &nbsp;
