@@ -28,9 +28,170 @@ You may find some projects on my repos, feel free to contribute or use them.
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  </br>
 
- <br/>
- 
+ ### 📂 &nbsp;Projects <br>
+
+<div align="left">
+  <table align="center"> 
+      <tr>
+        <td><h4><b>HTML&CSS</b></h4></td>
+        <td><h4><b>React</b></h4></td>
+        <td><h4><b>Angular</b></h4></td>
+        <td><h4><b>NodeJS</b></h4></td>
+      </tr> 
+      <tr>
+        <td>
+          <ul>
+          <li>    
+            <a
+              href="https://github.com/ahmetcankaratas/teams-clone"
+              target="blank"
+              title="Microsoft Teams"        
+            >Microsoft Teams</a>        
+          </li> 
+          <li>    
+            <a
+              href="https://github.com/ahmetcankaratas/loopstudios"
+              target="blank"
+              title="Loop Studios"        
+            >Loop Studios</a>        
+          </li>        
+          <li>    
+            <a
+              href="https://github.com/ahmetcankaratas/freecodecamp-projects/tree/main/visualize-data-with-a-choropleth-map"
+              target="blank"
+              title="Choropleth Map"        
+            >Choropleth Map</a>        
+          </li>    
+          <li>    
+            <a
+              href="https://github.com/ahmetcankaratas/bookmark-manager"
+              target="blank"
+              title="Bookmark Manager"        
+            >Bookmark Manager</a>        
+          </li> 
+          <li>    
+            <a
+              href="https://github.com/ahmetcankaratas/star-wars-card"
+              target="blank"
+              title="Star Wars"        
+            >Star Wars</a>        
+          </li> 
+      </ul>  
+        </td>  
+        <td>
+          <ul>
+            <li>    
+             <a
+              href="https://github.com/ahmetcankaratas/algotrasoft-community"
+              target="blank"
+              title="Algotrasoft Community"        
+              >Algotrasoft (React)</a>       
+            </li> 
+          <li>    
+            <a
+              href="https://github.com/ahmetcankaratas/fit-meals"
+              target="blank"
+              title="Fit Meals"        
+            >Fit Meals</a>        
+          </li> 
+            <li>    
+             <a
+              href="https://github.com/ahmetcankaratas/age-of-empires-wiki"
+              target="blank"
+              title="Age of empires "        
+              >Age of empires </a>     
+            </li> 
+          <li>    
+            <a
+              href="https://github.com/ahmetcankaratas/expense-tracker"
+              target="blank"
+              title="Expense tracker"        
+            >Expense tracker</a>        
+          </li> 
+          <li>    
+            <a
+              href="https://github.com/ahmetcankaratas/pokedex-app"
+              target="blank"
+              title="Pokedex"        
+            >Pokedex</a>        
+          </li> 
+          </ul>  
+        </td>
+        <td>
+          <ul>
+            <li>    
+             <a
+              href="https://github.com/ahmetcankaratas/algotrasoft-community-angular"
+              target="blank"
+              title="Algotrasoft Community"        
+              >Algotrasoft (Angular)</a>       
+            </li> 
+          <li>    
+            <a
+              href="https://github.com/ahmetcankaratas/recipe-book-app"
+              target="blank"
+              title="Recipe Book"        
+            >Recipe Book</a>        
+          </li> 
+            <li>    
+             <a
+              href="https://github.com/ahmetcankaratas/edumate-mobile"
+              target="blank"
+              title="EduM Mate "        
+              >Edumate(Ionic)</a>     
+            </li> 
+          <li>         
+          </li> 
+          <li>           
+          </li> 
+          </ul>  
+        </td>                        
+        <td>
+          <ul>
+            <li>    
+             <a
+              href="https://github.com/ahmetcankaratas/leviosa-movie"
+              target="blank"
+              title="Leviosa Movies"        
+              >Leviosa Movies</a>       
+            </li> 
+          <li>    
+            <a
+              href="https://github.com/ahmetcankaratas/fcc-issue-tracker"
+              target="blank"
+              title="Issue Tracker"        
+            >Issue Tracker</a>        
+          </li> 
+            <li>    
+             <a
+              href="https://github.com/ahmetcankaratas/fcc-anonymous-message-board"
+              target="blank"
+              title="Message Board"        
+              >Message Board</a>     
+            </li> 
+          <li>   
+             <a
+              href="https://github.com/ahmetcankaratas/fcc-timestamp-microservice"
+              target="blank"
+              title="Timestamp Microservice"        
+              >Timestamp Microservice</a>                   
+          </li> 
+          <li>   
+             <a
+              href="https://github.com/ahmetcankaratas/fcc-stock-price-checker"
+              target="blank"
+              title="Stock Price Checker"        
+              >Stock Price Checker</a>           
+          </li> 
+          </ul>  
+        </td>    
+     </tr>      
+  </table>      
+</div>
+</br>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left" >
