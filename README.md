@@ -196,10 +196,12 @@ You may find some projects on my repos, feel free to contribute or use them.
 
 <p align="left" >
 <a href="https://github.com/ahmetcankaratas">
+<img height="160em" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetcankaratas&theme=algolia&hide_border=false"/>
+</a>
+<a href="https://github.com/ahmetcankaratas">
   &nbsp;&nbsp;&nbsp;<img height="160em" align:"left"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=ahmetcankaratas&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
 
 
 ## 📫 How to reach me: <br>
