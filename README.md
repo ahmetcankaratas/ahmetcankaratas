@@ -127,6 +127,13 @@ You may find some projects on my repos, feel free to contribute or use them.
               target="blank"
               title="Algotrasoft Community"        
               >Algotrasoft (Angular)</a>       
+            </li>
+          <li>    
+             <a
+              href="https://github.com/ahmetcankaratas/movies-app-angular"
+              target="blank"
+              title="Movies-app"        
+              >Movies App</a>     
             </li> 
           <li>    
             <a
@@ -142,8 +149,6 @@ You may find some projects on my repos, feel free to contribute or use them.
               title="EduM Mate "        
               >Edumate(Ionic)</a>     
             </li> 
-          <li>         
-          </li> 
           <li>           
           </li> 
           </ul>  
