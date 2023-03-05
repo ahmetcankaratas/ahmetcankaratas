@@ -105,10 +105,10 @@ You may find some projects on my repos, feel free to contribute or use them.
             </li> 
           <li>    
             <a
-              href="https://github.com/ahmetcankaratas/expense-tracker"
+              href="https://github.com/ahmetcankaratas/meetups-nextjs"
               target="blank"
-              title="Expense tracker"        
-            >Expense tracker</a>        
+              title="Meetups"        
+            >Meetups</a>        
           </li> 
           <li>    
             <a
