@@ -43,12 +43,33 @@ You may find some projects on my repos, feel free to contribute or use them.
       <tr>
         <td>
           <ul>
+            <li>    
+            <a
+              href="https://github.com/ahmetcankaratas/trillo-booking"
+              target="blank"
+              title="Trillo"        
+            >Trillo</a>        
+          </li> 
           <li>    
             <a
               href="https://github.com/ahmetcankaratas/teams-clone"
               target="blank"
               title="Microsoft Teams"        
             >Microsoft Teams</a>        
+          </li>
+          <li>    
+            <a
+              href="https://github.com/ahmetcankaratas/bookmark-manager"
+              target="blank"
+              title="Bookmark Manager"        
+            >Bookmark Manager</a>        
+          </li>
+          <li>    
+            <a
+              href="https://github.com/ahmetcankaratas/natours"
+              target="blank"
+              title="Natours"        
+            >Natours</a>        
           </li> 
           <li>    
             <a
@@ -57,27 +78,6 @@ You may find some projects on my repos, feel free to contribute or use them.
               title="Loop Studios"        
             >Loop Studios</a>        
           </li>        
-          <li>    
-            <a
-              href="https://github.com/ahmetcankaratas/freecodecamp-projects/tree/main/visualize-data-with-a-choropleth-map"
-              target="blank"
-              title="Choropleth Map"        
-            >Choropleth Map</a>        
-          </li>    
-          <li>    
-            <a
-              href="https://github.com/ahmetcankaratas/bookmark-manager"
-              target="blank"
-              title="Bookmark Manager"        
-            >Bookmark Manager</a>        
-          </li> 
-          <li>    
-            <a
-              href="https://github.com/ahmetcankaratas/star-wars-card"
-              target="blank"
-              title="Star Wars"        
-            >Star Wars</a>        
-          </li> 
       </ul>  
         </td>  
         <td>
