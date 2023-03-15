@@ -105,10 +105,10 @@ You may find some projects on my repos, feel free to contribute or use them.
             </li> 
           <li>    
             <a
-              href="https://github.com/ahmetcankaratas/meetups-nextjs"
+              href="https://github.com/ahmetcankaratas/events-nextjs"
               target="blank"
-              title="Meetups"        
-            >Meetups</a>        
+              title="Events"        
+            >Events (Next)</a>        
           </li> 
           <li>    
             <a
