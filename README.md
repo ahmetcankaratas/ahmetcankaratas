@@ -59,10 +59,10 @@ You may find some projects on my repos, feel free to contribute or use them.
           </li>
           <li>    
             <a
-              href="https://github.com/ahmetcankaratas/bookmark-manager"
+              href="https://github.com/ahmetcankaratas/nexter-realestate"
               target="blank"
-              title="Bookmark Manager"        
-            >Bookmark Manager</a>        
+              title="Nexter"        
+            >Nexter</a>        
           </li>
           <li>    
             <a
