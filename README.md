@@ -82,6 +82,13 @@ You may find some projects on my repos, feel free to contribute or use them.
         </td>  
         <td>
           <ul>
+             <li>    
+             <a
+              href="https://github.com/ahmetcankaratas/algotrasoft-community-nextjs"
+              target="blank"
+              title="Algotrasoft Community"        
+              >Algotrasoft (Nextjs)</a>       
+            </li> 
             <li>    
              <a
               href="https://github.com/ahmetcankaratas/algotrasoft-community"
@@ -103,13 +110,6 @@ You may find some projects on my repos, feel free to contribute or use them.
               title="Age of empires "        
               >Age of empires </a>     
             </li> 
-          <li>    
-            <a
-              href="https://github.com/ahmetcankaratas/events-nextjs"
-              target="blank"
-              title="Events"        
-            >Events (Next)</a>        
-          </li> 
           <li>    
             <a
               href="https://github.com/ahmetcankaratas/pokedex-app"
