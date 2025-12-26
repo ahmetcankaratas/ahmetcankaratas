@@ -1,14 +1,19 @@
 ### Knock Knock 📺 
 
-In the past, I worked as a financial analyst by day and a software developer by night. But one day, I took the red pill and changed my career.
+In the past, I worked as a financial analyst by day and a software developer by night.
+But one day, I took the red pill 💊 and changed my career — and now the roles have shifted:
+I’m a software engineer by day ☀️ and a financial hacker by night 🌙.
 
 <img alt="Matrix" src="https://user-images.githubusercontent.com/53529387/209483153-1a7517dc-4513-4695-96f4-df5ee8ac7327.gif" width="400"/>
 
-And now, I'm a Frontend developer who also have backend development skills. I graduated from Ankara University (MSc. Informatics/Computer Science) with GPA 4.0/4.0. 
+I’m currently pursuing my MSc in Software Engineering & Data Science at Izmir Institute of Technology 🎓, after completing my MSc in Informatics (Computer Science) at Ankara University with a 4.0/4.0 GPA 📚✨.
 
-I'm passionate about learning new things, writing new codes, dreaming of new fintech ideas, and creating algorithms for investment.
+I’m passionate about learning new things 📘,
+writing clean & scalable code 💻,
+imagining new fintech ideas 💡,
+and building algorithmic trading systems 📈🤖 that push the limits of innovation.
 
-You may find some projects on my repos, feel free to contribute or use them.
+Feel free to explore my repositories — you’re welcome to contribute 🤝, fork 🍴, or use anything that inspires you 🚀.
 
 ### 🛠 &nbsp;Tech Stack
 
