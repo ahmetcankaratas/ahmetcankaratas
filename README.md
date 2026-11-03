@@ -36,9 +36,9 @@ Feel free to explore my repositories — you’re welcome to contribute 🤝, fo
 
 - ⚙️ &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
+  ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333333?style=flat&logo=springboot)
   ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=white)
-  ![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm)
 
 - 🧠 &nbsp;
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
@@ -60,6 +60,7 @@ Feel free to explore my repositories — you’re welcome to contribute 🤝, fo
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
 ### 📂 &nbsp;Projects <br>
 
