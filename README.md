@@ -28,28 +28,32 @@ Feel free to explore my repositories — you’re welcome to contribute 🤝, fo
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
   ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular&logoColor=white)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![Expo](https://img.shields.io/badge/-Expo-333333?style=flat&logo=expo&logoColor=white)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
 
 - ⚙️ &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs)
   ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
   ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express&logoColor=white)
+  ![TypeORM](https://img.shields.io/badge/-TypeORM-333333?style=flat&logo=typeorm)
 
 - 🧠 &nbsp;
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
-  ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
   ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikitlearn)
   ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
   ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-333333?style=flat&logo=huggingface)
+  ![Claude](https://img.shields.io/badge/-Claude-333333?style=flat&logo=claude)
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy)
-  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter)
 
 - 🧪 &nbsp;
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=C21325)
+  ![Jasmine](https://img.shields.io/badge/-Jasmine-333333?style=flat&logo=jasmine)
   ![Vitest](https://img.shields.io/badge/-Vitest-333333?style=flat&logo=vitest)
+  ![Mocha](https://img.shields.io/badge/-Mocha-333333?style=flat&logo=mocha)
+  ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
   ![Cucumber](https://img.shields.io/badge/-Cucumber-333333?style=flat&logo=cucumber)
 
 - 🛢 &nbsp;
